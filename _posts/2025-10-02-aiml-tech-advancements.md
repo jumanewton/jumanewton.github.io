@@ -14,7 +14,8 @@ As we step into **2025**, we’re seeing a convergence of large-scale models, ed
 
 ### 1. Next-Generation Large Language Models (LLMs)  
 - Models like **Qwen3, GPT-5, and Gemini Ultra** are setting new benchmarks in reasoning, efficiency, and multilingual understanding.  
-- Smaller, domain-specific LLMs are gaining traction, offering **cost-effective deployment** without sacrificing accuracy.  
+- Smaller, domain-specific LLMs are gaining traction, offering **cost-effective deployment** without sacrificing accuracy.
+- GPU advancements and more computing power making the development and use of LLMs and genai faster.
 
 ### 2. Retrieval-Augmented Generation (RAG) at Scale  
 - RAG pipelines have matured to handle **millions of documents with low latency**.  
