@@ -76,15 +76,49 @@ order: 2
 - **Repository**: [jumanewton/foodchatbot](https://github.com/jumanewton/foodchatbot)
 - **Overview**: NLP-enabled assistant for food ordering and support workflows.
 - **Tech Stack**: Python, NLP, API integrations
+- **Highlights**:
+  - Demonstrates conversational workflow design for structured customer requests
+  - Shows practical API-oriented automation for support and ordering use cases
 
 ### YOLOVision Experiments
 
 - **Repository**: [jumanewton/yolovision](https://github.com/jumanewton/yolovision)
 - **Overview**: Computer vision experimentation and model prototyping with object detection workflows.
 - **Tech Stack**: Python, Jupyter Notebook, computer vision tooling
+- **Highlights**:
+  - Focused on notebook-driven prototyping for YOLO-style detection workflows
+  - Useful evidence of applied computer vision experimentation and model iteration
 
 ### SocialApp
 
 - **Repository**: [jumanewton/socialapp](https://github.com/jumanewton/socialapp)
 - **Overview**: Flutter-based social/mobile product prototype with practical mobile engineering patterns.
 - **Tech Stack**: Flutter, Dart
+- **Highlights**:
+  - Demonstrates mobile product thinking, app structure, and user-facing feature design
+  - Shows Flutter implementation skills across a consumer-style application surface
+
+### HealthApp
+
+- **Repository**: [jumanewton/HealthApp](https://github.com/jumanewton/HealthApp)
+- **Overview**: Public Flutter health application repository that reflects mobile healthcare app development.
+- **Tech Stack**: Flutter, Dart
+- **Highlights**:
+  - Reinforces your experience building health-oriented mobile applications
+  - Fits well with your broader AI + healthcare portfolio narrative
+
+### MusicApp
+
+- **Repository**: [jumanewton/musicapp](https://github.com/jumanewton/musicapp)
+- **Overview**: Mobile application repository for music-related product experimentation and UI development.
+- **Tech Stack**: Mobile app development, Dart/Flutter-oriented workflows
+- **Highlights**:
+  - Adds variety to the portfolio by showing non-health consumer app work
+  - Supports your broader mobile engineering and product prototyping story
+
+### Additional Engineering Repositories
+
+- **Dira**: [jumanewton/Dira](https://github.com/jumanewton/Dira) - agentic civic intelligence platform
+- **Practice**: [jumanewton/practice](https://github.com/jumanewton/practice) - coding practice and problem-solving work
+- **LangChain**: [jumanewton/langchain](https://github.com/jumanewton/langchain) - notebook-based LangChain experimentation
+- **MLflow Trial**: [jumanewton/mlflow_trial](https://github.com/jumanewton/mlflow_trial) - experiment tracking and reproducibility work
