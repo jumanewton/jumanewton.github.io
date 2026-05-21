@@ -4,25 +4,57 @@ icon: fas fa-project-diagram
 order: 2
 ---
 
-## Project 1: Rebuild of Qwen3 Model
+## Dira – Agentic Civic Intelligence Platform
 
-- **Description**: Implemented a replica of the Qwen3 LLM from scratch in Python using Colab.
-- **Technologies**: Python, PyTorch, NLP libraries
-- **Outcome**: Achieved strong NLP accuracy despite limited resources.
+- **Overview**: A multi-agent system automating civic feedback management at scale.
+- **Key Technologies**: Jaseci (Jac), OSP graphs, Google Gemini Vision, PostgreSQL with pgvector, Python NLP microservices
+- **Technical Achievements**:
+  - Deployed multi-agent system for automated intake, classification, and spatial routing of civic feedback
+  - Integrated Google Gemini Vision for multimodal incident severity assessment from user-uploaded images
+  - Implemented semantic deduplication using PostgreSQL vector embeddings and clustering to reduce redundant manual reviews
 
-## Project 2: HealthMate – AI-Powered Health Assistant
+## RAG-Based Health Assistant
 
-- **Description**: Cross-platform Flutter app for medication tracking and emergency alerts.
-- **Technologies**: Flutter, Firebase, AI/ML integration
-- **Outcome**: Demonstrated full-stack expertise in mobile and cloud.
+- **Overview**: Production-grade Retrieval-Augmented Generation system handling large-scale document processing.
+- **Key Technologies**: Gemini, Groq Cloud, Pinecone vector store, Python
+- **Technical Achievements**:
+  - Designed and deployed RAG pipeline supporting 5,000+ documents/month at low latency
+  - Optimised retrieval pipeline for high reliability in production environments
+  - Implemented effective chunking strategies and vector store management
 
-## Project 3: RAG-Based Health Assistant
+## Qwen3 LLM Rebuild (From Scratch)
 
-- **Description**: Retrieval-Augmented Generation pipeline with Gemini and Groq Cloud.
-- **Technologies**: Python, LangChain, Cloud APIs
-- **Outcome**: Scaled to handle 5,000+ documents/month with low latency.
+- **Overview**: Functional replica of the Qwen3 Large Language Model built from first principles.
+- **Key Technologies**: Python, PyTorch, Transformer architecture, attention mechanisms
+- **Technical Achievements**:
+  - Implemented complete transformer architecture including attention mechanisms and training dynamics
+  - Demonstrated efficiency-aware model design under constrained compute and dataset size
+  - Achieved strong NLP performance benchmarks despite resource limitations
 
-## Additional Projects
+## Model Chaining & Experiment Tracking Pipeline
 
-- **Model Chaining & Experiment Tracking**: Deployed ML models with Docker and MLflow.
-- **Dialogflow & FastAPI Chatbot**: Built an LLM-powered chatbot for customer support.
+- **Overview**: Multi-model ML orchestration system for production inference and reproducibility.
+- **Key Technologies**: Docker Compose, LangChain, MLflow, Python
+- **Technical Achievements**:
+  - Deployed multi-model ML pipelines for orchestrated model chaining and inference
+  - Integrated MLflow for comprehensive experiment tracking, model versioning, and reproducibility
+  - Built containerized workflows ensuring consistency across applied ML projects
+
+## Agentic Codebase Genius
+
+- **Overview**: Autonomous agent system for intelligent code analysis and architectural reasoning.
+- **Key Technologies**: AI agents, tool-use workflows, codebase reasoning, Python
+- **Technical Achievements**:
+  - Built autonomous agent system capable of reasoning over large software codebases
+  - Designed multi-step, tool-using agent workflows to simulate human-level code understanding
+  - Enabled architectural question answering and dependency analysis at scale
+
+## Intelligent Trader – Multi-Agent Data Pipeline & Orchestration System
+
+- **Overview**: Sophisticated data pipeline for financial forecasting and decision orchestration with multi-agent architecture.
+- **Key Technologies**: Python, FastAPI, Docker, Celery, Redis, PostgreSQL with Alembic migrations
+- **Technical Achievements**:
+  - Designed layered multi-agent pipeline for real-time data ingestion, feature extraction, forecasting, and decision orchestration
+  - Built containerized end-to-end workflows using Docker and Celery with Redis message broker for distributed task orchestration
+  - Implemented reproducible backtesting pipelines and comprehensive monitoring infrastructure
+  - Managed database migrations and schema versioning for governed, auditable execution at scale
