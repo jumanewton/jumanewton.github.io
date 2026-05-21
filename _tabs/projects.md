@@ -13,14 +13,15 @@ order: 2
   - Integrated Google Gemini Vision for multimodal incident severity assessment from user-uploaded images
   - Implemented semantic deduplication using PostgreSQL vector embeddings and clustering to reduce redundant manual reviews
 
-## RAG-Based Health Assistant
+## MedRAG - Clinical Report Intelligence System
 
-- **Overview**: Production-grade Retrieval-Augmented Generation system handling large-scale document processing.
-- **Key Technologies**: Gemini, Groq Cloud, Pinecone vector store, Python
+- **Overview**: RAG-powered assistant for radiology and imaging workflows, designed to simplify medical report drafting for clinicians.
+- **Key Technologies**: Python, RAG architecture, pgvector, Streamlit, n8n, Gemini, Groq Cloud, Pinecone
 - **Technical Achievements**:
-  - Designed and deployed RAG pipeline supporting 5,000+ documents/month at low latency
-  - Optimised retrieval pipeline for high reliability in production environments
-  - Implemented effective chunking strategies and vector store management
+  - Built a symptom-driven retrieval workflow that identifies similar MRI/scanning reports from historical records
+  - Returned editable report templates to reduce clinician documentation time while preserving human review
+  - Developed and tested the system through Streamlit prototypes and n8n-powered automation flows
+  - Optimized retrieval reliability and latency for production-scale usage (5,000+ documents/month)
 
 ## Qwen3 LLM Rebuild (From Scratch)
 
@@ -58,3 +59,32 @@ order: 2
   - Built containerized end-to-end workflows using Docker and Celery with Redis message broker for distributed task orchestration
   - Implemented reproducible backtesting pipelines and comprehensive monitoring infrastructure
   - Managed database migrations and schema versioning for governed, auditable execution at scale
+
+## Mizigo DTD - Door-to-Door Delivery Platform
+
+- **Overview**: Mobile logistics platform inspired by ride-hailing patterns, built to coordinate door-to-door goods delivery.
+- **Key Technologies**: Flutter, Firebase, Google Maps, PostgreSQL
+- **Technical Achievements**:
+  - Built user flows for delivery requests, assignment, live location context, and order status tracking
+  - Integrated Google Maps APIs for route context, pickup/drop-off mapping, and location-aware dispatch support
+  - Combined Firebase services with PostgreSQL-backed data workflows for reliable app operations and persistence
+
+## Additional Public GitHub Projects
+
+### FoodChatBot
+
+- **Repository**: [jumanewton/foodchatbot](https://github.com/jumanewton/foodchatbot)
+- **Overview**: NLP-enabled assistant for food ordering and support workflows.
+- **Tech Stack**: Python, NLP, API integrations
+
+### YOLOVision Experiments
+
+- **Repository**: [jumanewton/yolovision](https://github.com/jumanewton/yolovision)
+- **Overview**: Computer vision experimentation and model prototyping with object detection workflows.
+- **Tech Stack**: Python, Jupyter Notebook, computer vision tooling
+
+### SocialApp
+
+- **Repository**: [jumanewton/socialapp](https://github.com/jumanewton/socialapp)
+- **Overview**: Flutter-based social/mobile product prototype with practical mobile engineering patterns.
+- **Tech Stack**: Flutter, Dart
