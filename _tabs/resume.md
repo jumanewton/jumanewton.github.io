@@ -4,102 +4,124 @@ icon: fas fa-file-alt
 order: 1
 ---
 
-# Newton Barasa Juma
+# Newton Barasa
 
-**Email:** barasanewton62@gmail.com  
-**Phone:** 254745210329 / 254700598984  
-**Address:** 115 Kiminini, Trans Nzoia  
-**LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/newton-barasa)  
-**GitHub:** [https://github.com/jumanewton](https://github.com/jumanewton)
+**Data Scientist | Data Engineer | Machine Learning Engineer**
 
-## PROFILE
+📍 **Location:** Nairobi, Kenya  
+📧 **Email:** jumanewton75@gmail.com  
+📱 **Phone:** +254 745 210 29  
+🔗 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/newton-barasa)  
+🐙 **GitHub:** [https://github.com/jumanewton](https://github.com/jumanewton)
 
-Innovative computer scientist with demonstrated experience in AI/ML model development, cloud deployment, and cross-platform application engineering. Built and deployed LLM-powered assistants, RAG systems, and mobile health applications, showing ability to move from research to production and committed to continuous learning and delivering impactful, data-driven solutions.
+---
 
-## SKILLS AND EXPERTISE
+## PROFESSIONAL SUMMARY
 
-Strong foundation in AI/ML model development and deployment on cloud platforms (Azure, AWS, GCP), with expertise in LLMs, NLP, and scalable cross-platform applications.
+Results-driven Data Scientist and Data Engineer with hands-on experience building end-to-end ML pipelines, ETL/ELT workflows, RAG systems, and LLM-powered applications. Proven ability to handle 1M+ record datasets, deploy scalable cloud solutions on Azure, AWS, and GCP, and translate complex data into actionable business intelligence. Skilled in Python, SQL, PySpark, and modern MLOps tooling, with a strong foundation in statistical analysis, deep learning, NLP, and computer vision. Experienced in big data processing using Apache Spark, Kafka, and Airflow, with strong foundations in the Hadoop ecosystem and distributed data architecture.
 
-- **Machine Learning & AI**: Large Language Models (LLMs), Generative AI, Deep Learning, Natural Language Processing (NLP), Computer Vision, Reinforcement Learning
-- **Cloud & Deployment**: Microsoft Azure, AWS, Google Cloud, Docker, Docker Compose, MLflow
-- **Frameworks & Tools**: PyTorch, TensorFlow, LangChain, FastAPI, Flask, Node.js
-- **Programming Languages**: Python, Java, C, SQL, Dart, Jaclang
-- **Databases & Vector Stores**: PostgreSQL, MongoDB, Pinecone, SQL
-- **Software Development & UI/UX**: Flutter, Firebase, Figma
-- **Version Control & Collaboration**: Git, GitHub, Agile Development
+---
 
-## PROJECTS AND RESEARCH
+## TECHNICAL SKILLS
 
-### Rebuild of Qwen3 Model
+**Languages & Query**  
+Python, SQL (Advanced), PySpark, Java, C, Dart
 
-Implemented a replica of the Qwen3 large language model (LLM) from scratch in Python (Google Colab). Achieved strong accuracy and NLP performance despite limited dataset size and compute resources, demonstrating the ability to build and optimize advanced AI architectures under constraints.
+**Data Engineering**  
+Apache Kafka, Apache Spark (PySpark), Apache Airflow, ETL/ELT Pipelines, Data Modeling, Hadoop Ecosystem, HDFS, MapReduce, dbt, SQL (Advanced)
 
-### HealthMate – AI-Powered Health Assistant
+**Machine Learning & AI**  
+PyTorch, TensorFlow, Scikit-learn, LangChain, Generative AI, NLP, Computer Vision, Reinforcement Learning, RAG Systems
 
-Developed a cross-platform mobile health app in Flutter, integrating AI/ML models for medication tracking, real-time monitoring, and emergency alerts—showcased full-stack expertise across mobile development, cloud integration, and AI deployment.
+**Cloud & MLOps**  
+Microsoft Azure, AWS, Google Cloud Platform (GCP), Docker, Docker Compose, MLflow, FastAPI, Flask
+
+**Databases & Storage**  
+PostgreSQL (pgvector), MongoDB, Pinecone, Firebase, Vector Databases
+
+**Visualisation & BI**  
+Power BI, Streamlit, Matplotlib, Seaborn
+
+**Other Tools**  
+Git, GitHub, Agile/Scrum, Node.js, Flutter, Firebase, Figma
+
+---
+
+## KEY PROJECTS
+
+### Dira - Agentic Civic Intelligence Platform
+
+- Deployed a multi-agent system using Jaseci (Jac) and OSP graphs to automate intake, classification, and spatial routing of civic feedback.
+- Integrated Google Gemini Vision for multimodal incident severity assessment from user-uploaded images via a Python NLP microservice.
+- Implemented semantic deduplication using PostgreSQL (pgvector) and embeddings to cluster recurring issues and reduce redundant manual reviews.
 
 ### RAG-Based Health Assistant
 
-Designed a Retrieval-Augmented Generation (RAG) pipeline using Gemini + Groq Cloud, with vectorized health report templates. The system scales to 5,000+ documents/month, providing low-latency, high-reliability performance in production environments.
+- Designed and deployed a Retrieval-Augmented Generation (RAG) system using Gemini and Groq Cloud, supporting 5,000+ documents per month at low latency.
+- Optimized production retrieval reliability using Pinecone vector store and robust chunking strategies.
 
-### Model Chaining & Experiment Tracking
+### Qwen3 LLM Rebuild (From Scratch)
 
-Deployed multiple ML models using Docker Compose and LangChain. Implemented MLflow for model tracking, experiment management, and version control. Optimized multi-model pipelines for scalability and reproducibility in applied machine learning workflows.
+- Implemented a functional replica of the Qwen3 LLM in Python, including transformer architecture, attention mechanisms, and training dynamics.
+- Demonstrated efficiency-aware model design under constrained compute and dataset size with strong NLP benchmarks.
 
-### Dialogflow & FastAPI Chatbot
+### Model Chaining and Experiment Tracking Pipeline
 
-Built an LLM-powered chatbot integrating Dialogflow + FastAPI to handle order tracking and customer support queries. Applied natural language processing (NLP) and REST API development to improve user experience and business automation.
+- Deployed multi-model ML pipelines using Docker Compose and LangChain for orchestrated model chaining and inference.
+- Integrated MLflow for experiment tracking, versioning, and reproducibility across applied ML workflows.
+
+### Agentic Codebase Genius
+
+- Built an autonomous agent system for reasoning over large software codebases, answering architectural questions, and analyzing dependencies.
+- Designed multi-step, tool-using workflows to simulate human-like code understanding and reasoning.
+
+### Intelligent Trader - Multi-Agent Data Pipeline and Orchestration System
+
+- Designed a layered multi-agent architecture for real-time ingestion, feature extraction, forecasting, and decision orchestration using Python and FastAPI.
+- Built and containerized end-to-end workflows with Docker and Celery, using Redis as the message broker for distributed orchestration.
+- Implemented reproducible backtesting and monitoring infrastructure for governed, auditable execution at scale.
+- Managed database migrations and schema versioning across deployment environments using Alembic.
 
 ## PROFESSIONAL EXPERIENCE
 
-### Mobile Development Lead
+### Data Science Intern | mTek Services | Nairobi, Kenya
 
-**Google Developer Student Clubs, Maseno University, Kenya**  
-*August 2024 – August 2025*
+*May 2025 - Sep 2025*
 
-- Leading mobile development projects and mentoring students in mobile app development.
-- Organizing workshops, training sessions, and collaborative coding events to improve technical skills.
-- Driving innovation by guiding team members in building impactful mobile applications for real-world use cases.
+- Performed advanced data wrangling, feature engineering, and statistical analysis on 1M+ records, improving predictive model accuracy by 15% and identifying key churn drivers.
+- Conducted exploratory data analysis, data cleaning, and storytelling to surface actionable insights for business stakeholders.
+- Built interactive dashboards using Streamlit and Power BI for real-time data visualization by non-technical teams.
+- Executed big data analysis using Python and advanced SQL, optimizing query performance on large datasets.
+- Collaborated with cross-functional teams to translate data insights into strategic business recommendations.
 
-### Data Scientist
+### Junior Data Scientist | Zummit Infolabs | Remote, US
 
-**mTek services, Nairobi, Kenya**  
-*May 2025 – July 2025*
+*Jul 2024 - Feb 2025*
 
-- Orchestrated advanced data wrangling, feature engineering, and statistical analysis on huge datasets, enhancing predictive model accuracy by 15% to identify key drivers of churn.
-- Conducted advanced data cleaning, manipulation, EDA, and data storytelling.
-- Collaborated with cross-functional teams to translate data insights into actionable business strategies.
-- Creating an interactive dashboard using Streamlit and Power BI.
+- Developed and deployed computer vision models for brain tumor detection, head count detection, and AI-powered background removal.
+- Executed full ML lifecycle: preprocessing, feature engineering, training, evaluation, and deployment.
+- Conducted advanced data cleaning, manipulation, and statistical analysis for complex datasets.
 
-### Junior Data Scientist
+### Computer Science Intern | Trans Nzoia County Government | Kenya
 
-**Zummit Infolabs, Remote US**  
-*July 2024 – February 2025*
+*May 2024 - Aug 2024*
 
-- Conducted advanced data cleaning, manipulation, and analysis to extract meaningful insights.
-- Creating ML models (vision models) for projects including: Brain tumor detection, Head count detection, and Image background removal using AI.
+- Analyzed county operational data using Excel and SQL, producing reports that identified employee skill gaps and informed HR strategy.
+- Digitized manual records and optimized data entry workflows, reducing retrieval time by 30% and improving data accuracy.
+- Provided technical support for government digital systems, maintaining 99% uptime for critical operations.
+- Deployed software updates and security patches across workstations, supporting compliance with data protection standards.
 
-### Computer Science Intern
+### Mobile Development Lead | Google Developer Student Clubs, Maseno University | Kenya
 
-**Trans Nzoia County, Kenya**  
-*May 2024 – August 2024*
+*Aug 2024 - Aug 2025*
 
-- Assisted in the development and implementation of software solutions to improve county operations.
-- Participated in data analysis projects, providing valuable insights to support decision-making.
-- Delivered technical support and contributed to improving digital systems and processes.
-
-### Technical Support Officer
-
-**GaoTek Inc., Remote India**  
-*March 2024 – September 2024*
-
-- Managed WordPress content publishing and optimized product pages for visibility.
-- Supported digital marketing and SEO campaigns, improving product discoverability.
+- Mentored 50+ students in mobile engineering, covering Flutter, Dart, Firebase, and SDLC best practices.
+- Led code reviews and debugging sessions, guiding teams from UI design in Figma to production deployment.
+- Directed student teams in building an exam revision application for past paper access.
 
 ## EDUCATION
 
-**BSc. in Computer Science** - Maseno University, Kenya  
-*Expected Graduation: 2025*
-
-- Relevant Coursework: Machine Learning, Artificial Intelligence, Data Structures & Algorithms, Cloud Computing, Computer Vision, Natural Language Processing
-- Academic Standing: Second Class Upper
+**BSc. Computer Science**  
+Maseno University, Kenya  
+2021 - 2025  
+Second Class Upper Honours

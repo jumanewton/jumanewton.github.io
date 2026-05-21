@@ -5,32 +5,25 @@ icon: fas fa-info-circle
 order: 5
 ---
 
-## 👋 Hi, I’m Newton  
+## Hi, I am Newton
 
-I’m a **Computer Science student at Maseno University** and an **AI & Mobile Development enthusiast**.  
-Currently, I serve as the **Mobile Development Lead at GDSC Maseno (2024/2025 Chapter)**, where I guide students in building real-world apps with **Flutter** and **Firebase**.  
+I am a Data Scientist, Data Engineer, and Machine Learning Engineer focused on building reliable AI systems from idea to production. My work spans end-to-end ML pipelines, ETL/ELT workflows, Retrieval-Augmented Generation systems, and LLM-powered applications.
 
-## 🔭 What I Do
-- 🧠 **Deep Learning & AI** – Computer Vision, NLP, and applied machine learning.  
-- 📱 **Mobile Development** – Flutter apps with Firebase & backend integration.  
-- 🌐 **Backend Development** – FastAPI & Node.js (with MongoDB).  
-- 📊 **Data Science** – Visualization, analysis, and predictive modeling.  
+I have hands-on experience working with large datasets, modern MLOps tooling, and cloud-native deployment across Azure, AWS, and GCP. I enjoy turning complex data into practical decisions and building agentic systems that automate real workflows.
 
-## 🚀 Projects & Research
-- **Rebuild of Qwen3 Model** – Implemented a replica of the Qwen3 LLM from scratch in Python (Colab). Achieved strong NLP accuracy despite limited dataset size and compute, demonstrating ability to optimize advanced architectures under constraints.  
-- **HealthMate – AI-Powered Health Assistant** – Cross-platform Flutter app integrating AI/ML for medication tracking, real-time monitoring, and emergency alerts—showcased full-stack expertise across mobile, cloud, and AI deployment.  
-- **RAG-Based Health Assistant** – Designed a Retrieval-Augmented Generation (RAG) pipeline with Gemini + Groq Cloud. Scaled to 5,000+ documents/month, providing low-latency, high-reliability health data insights.  
-- **Model Chaining & Experiment Tracking** – Deployed multiple ML models with Docker Compose & LangChain. Integrated MLflow for experiment tracking, versioning, and scalable multi-model pipelines.  
-- **Dialogflow & FastAPI Chatbot** – Built an LLM-powered chatbot with Dialogflow + FastAPI for order tracking and customer support, applying NLP and REST API development for real-world automation.  
+## What I Build
 
-## 🌱 Currently Exploring 
-- Scalable AI pipelines with containerization & orchestration. 
-- Advanced Computer vision and Reinforcement learning for IoT devices.
-- LLM-based medical assistants & multimodal AI.  
-- Scalable deep learning workflows with distributed systems.
-- Advanced medical image analysis with **PyTorch & MONAI**.  
+- Production-grade AI and ML solutions using Python, PyTorch, TensorFlow, and LangChain
+- Data engineering pipelines with Spark, Kafka, Airflow, SQL, and distributed processing patterns
+- RAG and vector-search systems using Pinecone, pgvector, and embedding-driven retrieval
+- Scalable APIs and services with FastAPI, Flask, Docker, and cloud infrastructure
+- Interactive analytics products with Streamlit, Power BI, and strong data storytelling
 
+## Current Focus
 
----
+- Agentic AI systems for real-world decision support
+- Efficient LLM architecture design and fine-tuned retrieval workflows
+- MLOps reliability, reproducibility, and model governance
+- High-performance data platforms for analytics and forecasting
 
-> “Always building, always learning.”  
+I am always open to collaborating on impactful AI, data, and engineering projects.
