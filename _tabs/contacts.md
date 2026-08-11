@@ -6,7 +6,7 @@ order: 4
 
 ## Get In Touch
 
-- **Email**: barasanewton62@gmail.com
+- **Email**: jumanewton75@gmail.com
 - **LinkedIn**: [https://www.linkedin.com/in/newton-barasa](https://www.linkedin.com/in/newton-barasa)
 - **GitHub**: [https://github.com/jumanewton](https://github.com/jumanewton)
 <!-- - **Twitter**: [https://twitter.com/username](https://twitter.com/username) -->
