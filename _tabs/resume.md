@@ -10,7 +10,7 @@ order: 1
 
 📍 **Location:** Nairobi, Kenya  
 📧 **Email:** jumanewton75@gmail.com  
-📱 **Phone:** +254 745 210 29  
+📱 **Phone:** +254 745 210 329  
 🔗 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/newton-barasa)  
 🐙 **GitHub:** [https://github.com/jumanewton](https://github.com/jumanewton)
 
