@@ -31,6 +31,14 @@ github:
 twitter:
   username: twitter_username # change to your Twitter username
 
+plugins: 
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-archives
+  - jekyll-paginate
+  - jekyll-compress-html
+
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
