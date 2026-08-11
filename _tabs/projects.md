@@ -4,6 +4,16 @@ icon: fas fa-project-diagram
 order: 2
 ---
 
+## AI Personal Trainer – 3D Pose Coaching System
+
+- **Overview**: A privacy-first, real-time computer vision fitness coach with interactive web-based session replay.
+- **Key Technologies**: Python, OpenCV, MediaPipe, Flask, JavaScript, HTML Canvas, Chart.js, label-studio
+- **Technical Achievements**:
+  - Engineered a low-latency 3D pose estimation pipeline using MediaPipe and OpenCV to track 33 body landmarks in real metric world coordinates.
+  - Implemented 1 Euro signal filtering algorithms across 99 continuous data streams to eliminate webcam jitter and ensure stable inference.
+  - Designed Finite State Machines (FSMs) with hysteresis to robustly count reps and analyze biomechanical form deviations (e.g., knee valgus, excessive trunk lean) across multiple exercises.
+  - Developed a Flask-based Single Page Application (SPA) with an HTML Canvas skeleton renderer and Chart.js to visualize joint angle trends from serialized session data.
+
 ## Dira – Agentic Civic Intelligence Platform
 
 - **Overview**: A multi-agent system automating civic feedback management at scale.

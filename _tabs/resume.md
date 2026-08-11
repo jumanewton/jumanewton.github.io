@@ -6,7 +6,7 @@ order: 1
 
 # Newton Barasa
 
-**Data Scientist | Data Engineer | Machine Learning Engineer**
+## Data Scientist | Data Engineer | Machine Learning Engineer
 
 📍 **Location:** Nairobi, Kenya  
 📧 **Email:** jumanewton75@gmail.com  
@@ -18,36 +18,40 @@ order: 1
 
 ## PROFESSIONAL SUMMARY
 
-Results-driven Data Scientist and Data Engineer with hands-on experience building end-to-end ML pipelines, ETL/ELT workflows, RAG systems, and LLM-powered applications. Proven ability to handle 1M+ record datasets, deploy scalable cloud solutions on Azure, AWS, and GCP, and translate complex data into actionable business intelligence. Skilled in Python, SQL, PySpark, and modern MLOps tooling, with a strong foundation in statistical analysis, deep learning, NLP, and computer vision. Experienced in big data processing using Apache Spark, Kafka, and Airflow, with strong foundations in the Hadoop ecosystem and distributed data architecture.
+Machine Learning Engineer and Data Scientist with industry experience building machine learning applications, data pipelines, and AI-powered systems. Experienced in Python, SQL, cloud deployment, and end-to-end machine learning workflows, from data preparation and model development to deployment and monitoring.
 
 ---
 
 ## TECHNICAL SKILLS
 
-**Languages & Query**  
-Python, SQL (Advanced), PySpark, Java, C, Dart
+**Data**  
+Data Analysis, Statistical Analysis, Feature Engineering, Model Evaluation, Data Visualization
+
+**Machine Learning**  
+Scikit-learn, PyTorch, TensorFlow, Deep Learning, NLP, Computer Vision, Generative AI 
+
+**Programming**  
+Python, SQL, Java
+
+**Deployment & MLOps**  
+Docker, MLflow, FastAPI, Flask
 
 **Data Engineering**  
-Apache Kafka, Apache Spark (PySpark), Apache Airflow, ETL/ELT Pipelines, Data Modeling, Hadoop Ecosystem, HDFS, MapReduce, dbt, SQL (Advanced)
-
-**Machine Learning & AI**  
-PyTorch, TensorFlow, Scikit-learn, LangChain, Generative AI, NLP, Computer Vision, Reinforcement Learning, RAG Systems
-
-**Cloud & MLOps**  
-Microsoft Azure, AWS, Google Cloud Platform (GCP), Docker, Docker Compose, MLflow, FastAPI, Flask
-
-**Databases & Storage**  
-PostgreSQL (pgvector), MongoDB, Pinecone, Firebase, Vector Databases
+Apache Spark, Airflow, ETL Pipelines, Data Modeling
 
 **Visualisation & BI**  
 Power BI, Streamlit, Matplotlib, Seaborn
 
-**Other Tools**  
-Git, GitHub, Agile/Scrum, Node.js, Flutter, Firebase, Figma
-
 ---
 
 ## KEY PROJECTS
+
+### AI Personal Trainer - 3D Pose Coaching System
+
+- Engineered a real-time computer vision pipeline using Python, MediaPipe, and OpenCV to perform 3D pose estimation and track 33 body landmarks in real-world metric coordinates.
+- Implemented 1 Euro signal filtering algorithms across 99 continuous data streams to eliminate webcam jitter and ensure stable, low-latency inference.
+- Designed Finite State Machines (FSMs) with hysteresis to robustly count reps and analyze biomechanical form deviations (e.g., knee valgus, excessive trunk lean) without double-counting.
+- Developed a Flask-based web dashboard utilizing Vanilla JS, HTML Canvas, and Chart.js to replay recorded sessions and visualize joint angle kinematics over time.
 
 ### Dira - Agentic Civic Intelligence Platform
 
