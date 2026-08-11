@@ -88,44 +88,55 @@ Power BI, Streamlit, Matplotlib, Seaborn
 
 ## PROFESSIONAL EXPERIENCE
 
+### Freelance AI Engineer & Data Scientist | Remote
+
+*August 2025 - Present*
+
+- Designed and executed adversarial, multi-turn prompts to evaluate large language models for reasoning, instruction following, context retention, and factual accuracy. 
+- Created end-to-end machine learning and data applications using Python, FastAPI, Docker, and cloud deployment platforms. 
+- Evaluated AI-generated responses using structured rubrics, documenting failure modes such as hallucinations, inconsistencies, and unsupported claims to improve model reliability.
+- Performed iterative testing of frontier LLMs by increasing task complexity, analyzing model behaviour, and producing high-quality evaluation reports aligned with project specifications.
+- Designed and deployed AI-powered automation workflows using n8n, integrating large language models, APIs, and business tools to automate repetitive tasks.
+- Built retrieval-augmented AI assistants capable of answering questions from documents and knowledge bases using vector search and modern LLM technologies.
+
 ### Data Science Intern | mTek Services | Nairobi, Kenya
 
-*May 2025 - Sep 2025*
+*May 2025 - July 2025*
 
-- Performed advanced data wrangling, feature engineering, and statistical analysis on 1M+ records, improving predictive model accuracy by 15% and identifying key churn drivers.
-- Conducted exploratory data analysis, data cleaning, and storytelling to surface actionable insights for business stakeholders.
-- Built interactive dashboards using Streamlit and Power BI for real-time data visualization by non-technical teams.
-- Executed big data analysis using Python and advanced SQL, optimizing query performance on large datasets.
-- Collaborated with cross-functional teams to translate data insights into strategic business recommendations.
+- Performed data cleaning, feature engineering, and statistical analysis that improved model accuracy by 15%.
+- Conducted exploratory analysis to identify key drivers of customer churn and support business decision-making.
+- Built interactive dashboards using Streamlit and Power BI to help non-technical teams monitor business performance.
+- Worked with large datasets using Python and SQL, improving query efficiency and data processing workflows..
+- Analyzed over one million insurance records to identify customer behavior patterns and improve predictive model performance.
 
 ### Junior Data Scientist | Zummit Infolabs | Remote, US
 
 *Jul 2024 - Feb 2025*
 
-- Developed and deployed computer vision models for brain tumor detection, head count detection, and AI-powered background removal.
-- Executed full ML lifecycle: preprocessing, feature engineering, training, evaluation, and deployment.
-- Conducted advanced data cleaning, manipulation, and statistical analysis for complex datasets.
+- Developed computer vision applications for medical image analysis, object detection, and automated image processing.
+- Performed statistical analysis and feature engineering to improve model performance.
+- Collaborated with technical teams to deploy AI solutions for real-world applications.
+- Built and evaluated machine learning models from data preparation through deployment.
 
 ### Computer Science Intern | Trans Nzoia County Government | Kenya
 
 *May 2024 - Aug 2024*
 
-- Analyzed county operational data using Excel and SQL, producing reports that identified employee skill gaps and informed HR strategy.
-- Digitized manual records and optimized data entry workflows, reducing retrieval time by 30% and improving data accuracy.
-- Provided technical support for government digital systems, maintaining 99% uptime for critical operations.
-- Deployed software updates and security patches across workstations, supporting compliance with data protection standards.
+- Analyzed operational data using SQL and Excel to identify workforce skill gaps and support HR planning.
+- Digitized manual records and improved data workflows, reducing retrieval time by 60%.
+- Maintained government digital systems and supported daily operational technology needs.
+- Assisted with software deployment and system maintenance across county offices.
 
 ### Mobile Development Lead | Google Developer Student Clubs, Maseno University | Kenya
 
 *Aug 2024 - Aug 2025*
 
-- Mentored 50+ students in mobile engineering, covering Flutter, Dart, Firebase, and SDLC best practices.
+- Mentored students in mobile engineering, covering Flutter, Dart, Firebase, and SDLC best practices.
 - Led code reviews and debugging sessions, guiding teams from UI design in Figma to production deployment.
-- Directed student teams in building an exam revision application for past paper access.
+- Together with student teams, built an exam revision application for past paper access.
 
 ## EDUCATION
 
 **BSc. Computer Science**  
 Maseno University, Kenya  
 2021 - 2025  
-Second Class Upper Honours
